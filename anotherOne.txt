@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello world. gurlll
-=======
-hello world. duuude
->>>>>>> newB
+wassup
