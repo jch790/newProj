@@ -1,1 +1,6 @@
+<<<<<<< f28eafd7e7e89a65fc3d96c8898f18fa2cce5633
 hello world. duuude
+=======
+hello world. gurlll
+wassup
+>>>>>>> commit test
